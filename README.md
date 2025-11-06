@@ -92,7 +92,3 @@ It provides informational assistance only and should not replace professional bi
 🌐 Website: *(coming soon)*  
 🐙 GitHub: [github.com/akimkhabibullin/BillGenieAI](https://github.com/akimkhabibullin/BillGenieAI)
 
----
-
-> *“Clarity saves money — and peace of mind.”*  
-> — The BillGenieAI Team 🧞‍♂️
